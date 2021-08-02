@@ -1,0 +1,14 @@
+body{
+    background-image: url("https://i.pinimg.com/736x/aa/06/08/aa06087b681e595b718583509934a28b.jpg");
+    background-position: center;
+    background-size: cover;
+}
+#submit_button 
+{ margin-top: 20px;
+     margin-bottom: 20px;
+     }
+ #sort_button { display: none;
+     margin-top: 20px;
+      margin-bottom: 20px;
+     } 
+     input { margin: 10px; }
